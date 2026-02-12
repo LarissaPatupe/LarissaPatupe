@@ -45,8 +45,7 @@ My approach combines:
 
 Python • JavaScript • SQL  
 
-TenseorFlow PyTorch
-
+TensorFlow • PyTorch
 Scikit-learn • Neural Networks • Data Processing  
 
 LangChain • HuggingFace Embeddings • FAISS • Chroma  
